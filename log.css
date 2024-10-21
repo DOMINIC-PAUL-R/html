@@ -1,0 +1,12 @@
+h1{
+    color: rgb(250, 246, 246);
+    font-size: xx-large;
+    font-style: italic;
+}
+body{
+    background-image:url("https://t4.ftcdn.net/jpg/08/26/15/73/240_F_826157319_8tT4YXGne6u7fFECKRWUi5dq8Ag6YfpR.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-size: xx-large;
+    color:rgb(235, 242, 244);
+}
